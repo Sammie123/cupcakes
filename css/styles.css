@@ -1,0 +1,28 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: pink;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+h1 {
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+img {
+  width: 25%;
+  /*height:;*/
+}
+
+body {
+  background-image: url("https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg");
+}
